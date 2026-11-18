@@ -1,3 +1,8 @@
+<!-- branding -->
+<p align="center"><img src="assets/logo.png" width="80" alt="Logo RAW GMC Mastery"></p>
+<p align="center"><img src="assets/banniere.png" width="100%" alt="RAW GMC Mastery — Standard"></p>
+<!-- /branding -->
+
 # RAW GMC Mastery · Communauté Standard
 
 L'espace public des ressources et projets communautaires de RAW GMC Mastery.
